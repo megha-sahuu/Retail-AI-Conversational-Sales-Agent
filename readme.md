@@ -114,7 +114,26 @@ You can demo the system in ~3–4 minutes using this storyline:
 - Natural-language **product retrieval**  
 - **Budget extraction** & preference parsing  
 - Hybrid **rule-based + LLM** scoring model  
-- Fallback LLM for open-ended queries & small talk  
+- Fallback LLM for open-ended queries & small talk
+  
+## ✅ Prerequisites
+
+Ensure the following are installed on your system:
+
+- **Node.js (LTS version recommended)**
+- **Python 3.10+**
+- *(Optional)* **Redis** — only required if you switch from in-memory to external session storage.
+
+---
+
+# 1️⃣ Backend (FastAPI)
+
+### ➤ Setup & Installation
+
+```bash
+cd backend
+python -m venv .venv
+
 
 ---
 
@@ -175,22 +194,4 @@ This guide explains how to set up and run both the **Backend (FastAPI)** and **F
 
 
 
-
-## ✅ Prerequisites
-
-Ensure the following are installed on your system:
-
-- **Node.js (LTS version recommended)**
-- **Python 3.10+**
-- *(Optional)* **Redis** — only required if you switch from in-memory to external session storage.
-
----
-
-# 1️⃣ Backend (FastAPI)
-
-### ➤ Setup & Installation
-
-```bash
-cd backend
-python -m venv .venv
 
