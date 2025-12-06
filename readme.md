@@ -173,7 +173,8 @@ You can demo the system in ~3–4 minutes using this storyline:
 
 This guide explains how to set up and run both the **Backend (FastAPI)** and **Frontend (React + TypeScript)** for the Retail AI Conversational Sales Agent.
 
----
+
+
 
 ## ✅ Prerequisites
 
