@@ -123,6 +123,10 @@ Ensure the following are installed on your system:
 - **Node.js (LTS version recommended)**
 - **Python 3.10+**
 - *(Optional)* **Redis** — only required if you switch from in-memory to external session storage.
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/96abc148-d02c-4048-bf4f-fef23896947e" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/e0dcb750-dfa3-4512-8914-4a0c2928be05" />
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/ea0967c8-aa36-439d-96bf-b8769725087c" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/49923bf2-394e-4209-95e8-73dc657d9b98" />
 
 ---
 
@@ -134,10 +138,6 @@ Ensure the following are installed on your system:
 cd backend
 python -m venv .venv
 
-<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/96abc148-d02c-4048-bf4f-fef23896947e" />
-<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/e0dcb750-dfa3-4512-8914-4a0c2928be05" />
-<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/ea0967c8-aa36-439d-96bf-b8769725087c" />
-<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/49923bf2-394e-4209-95e8-73dc657d9b98" />
 
 
 ---
