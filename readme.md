@@ -128,23 +128,26 @@ Ensure the following are installed on your system:
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/ea0967c8-aa36-439d-96bf-b8769725087c" />
 <img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/49923bf2-394e-4209-95e8-73dc657d9b98" />
 
----
 
+---
 # 1️⃣ Backend (FastAPI)
 
 ### ➤ Setup & Installation
 
-```bash
+
 cd backend
 python -m venv .venv
 
-
-
 ---
+
+
 
 ## 🧩 Architecture Overview
 
 ```text
+
+
+
             ┌──────────────────────────┐
             │        React App         │
             │  Web • Kiosk • WhatsApp  │
@@ -173,8 +176,9 @@ python -m venv .venv
        │ Reserve / Delivery   │
        └──────────────────────┘
 
+```
 ## 📂 Project Structure (High-Level)
-.
+```
 ├── backend/
 │   ├── app/
 │   │   ├── main.py              # FastAPI entrypoint
@@ -193,6 +197,8 @@ python -m venv .venv
 │   └── public/
 │
 └── README.md
+
+```
 # 🚀 Running the Project
 
 This guide explains how to set up and run both the **Backend (FastAPI)** and **Frontend (React + TypeScript)** for the Retail AI Conversational Sales Agent.
