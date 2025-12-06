@@ -1,0 +1,14 @@
+[
+  {
+    "id": "OFFER10",
+    "description": "10% off on all dresses above ₹1500",
+    "percentage": 10,
+    "applicable_categories": ["dress"]
+  },
+  {
+    "id": "LOYALTY50",
+    "description": "Extra 5% off for Gold loyalty tier members",
+    "percentage": 5,
+    "applicable_categories": ["shirt", "dress", "shorts"]
+  }
+]

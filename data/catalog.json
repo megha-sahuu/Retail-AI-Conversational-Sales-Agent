@@ -1,0 +1,78 @@
+[
+  {
+    "sku": "TSHIRT001",
+    "name": "Beach Linen Shirt",
+    "category": "shirt",
+    "price": 2499
+  },
+  {
+    "sku": "DRESS001",
+    "name": "Floral Summer Dress",
+    "category": "dress",
+    "price": 2799
+  },
+  {
+    "sku": "SHORTS001",
+    "name": "Chino Shorts",
+    "category": "shorts",
+    "price": 1599
+  },
+
+  {
+    "sku": "TOP001",
+    "name": "Casual Cotton Top",
+    "category": "top",
+    "price": 1199
+  },
+  {
+    "sku": "KURTA001",
+    "name": "Everyday Wear Kurta",
+    "category": "kurta",
+    "price": 999
+  },
+  {
+    "sku": "JEANS001",
+    "name": "Classic Fit Jeans",
+    "category": "jeans",
+    "price": 2299
+  },
+
+  {
+    "sku": "DRESS002",
+    "name": "Elegant A-Line Dress",
+    "category": "dress",
+    "price": 1999
+  },
+  {
+    "sku": "DRESS003",
+    "name": "Sleeveless Printed Dress",
+    "category": "dress",
+    "price": 1499
+  },
+
+  {
+    "sku": "TSHIRT002",
+    "name": "Premium Cotton T-shirt",
+    "category": "shirt",
+    "price": 899
+  },
+  {
+    "sku": "TOP002",
+    "name": "Ruffle Sleeve Top",
+    "category": "top",
+    "price": 1799
+  },
+
+  {
+    "sku": "ACCESS001",
+    "name": "Beach Hat",
+    "category": "accessory",
+    "price": 499
+  },
+  {
+    "sku": "ACCESS002",
+    "name": "Sunglasses",
+    "category": "accessory",
+    "price": 799
+  }
+]

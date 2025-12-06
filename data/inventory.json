@@ -1,0 +1,22 @@
+[
+  { "sku": "TSHIRT001", "store_id": "Mall-01", "quantity": 12 },
+  { "sku": "TSHIRT001", "store_id": "Mall-02", "quantity": 8 },
+
+  { "sku": "DRESS001", "store_id": "Mall-01", "quantity": 10 },
+
+  { "sku": "DRESS002", "store_id": "Mall-01", "quantity": 5 },
+  { "sku": "DRESS003", "store_id": "Mall-03", "quantity": 9 },
+  { "sku": "DRESS004", "store_id": "Mall-02", "quantity": 4 },
+  { "sku": "TSHIRT002", "store_id": "Mall-01", "quantity": 7 },
+  { "sku": "TOP002", "store_id": "Mall-04", "quantity": 3 },
+  { "sku": "JEANS001", "store_id": "Mall-02", "quantity": 11 },
+  { "sku": "ACCESS001", "store_id": "Mall-03", "quantity": 6 },
+  { "sku": "KURTA001", "store_id": "Mall-01", "quantity": 9 },
+  { "sku": "ACCESS002", "store_id": "Mall-04", "quantity": 8 },
+  { "sku": "KURTA001", "store_id": "Mall-01", "quantity": 5 },
+  { "sku": "DRESS012", "store_id": "Mall-03", "quantity": 7 },
+  { "sku": "DRESS013", "store_id": "Mall-02", "quantity": 4 },
+  { "sku": "JEANS001", "store_id": "Mall-04", "quantity": 3 },
+  { "sku": "TOP001", "store_id": "Mall-01", "quantity": 10 },
+  { "sku": "SHORTS001", "store_id": "Mall-02", "quantity": 12 }
+]

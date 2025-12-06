@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cust1",
+    "name": "Megha",
+    "loyalty_tier": "gold",
+    "loyalty_points": 120,
+    "preferences": ["casual", "beach", "summer", "vacation"],
+    "purchase_history": []
+  },
+  {
+    "id": "cust2",
+    "name": "Rahul",
+    "loyalty_tier": "silver",
+    "loyalty_points": 60,
+    "preferences": ["casual", "beach", "summer", "vacation"],
+    "purchase_history": []
+  }
+]
